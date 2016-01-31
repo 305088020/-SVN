@@ -1,0 +1,9 @@
+F:\SVN自动同步\SVN自动同步\bin\Debug\SVN自动同步.exe.config
+F:\SVN自动同步\SVN自动同步\bin\Debug\SVN自动同步.exe
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.Form1.resources
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.Properties.Resources.resources
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.csproj.GenerateResource.Cache
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.exe
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.csprojResolveAssemblyReference.cache
+F:\SVN自动同步\SVN自动同步\bin\Debug\SVN自动同步.pdb
+F:\SVN自动同步\SVN自动同步\obj\Debug\SVN自动同步.pdb

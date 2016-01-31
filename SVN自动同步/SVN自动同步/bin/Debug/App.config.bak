@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="SVN_W" value="F:\SVN\云代码" />
+    <add key="SVN_N" value="F:\SVN\本地代码" />
+    <add key="SVN_TIME" value="10" />
+    <add key="SlEEP_TIME" value="0" />
+  </appSettings>
+</configuration>
